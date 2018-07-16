@@ -223,14 +223,6 @@ button {
 /* State Styles */
 
 @media screen and (min-width: 100px) {
-  html {
-    font-size: .5em; /* 20 / 16 = 1.25em */
-  }
-
-  button {
-    font-size: .5em; /* 20 / 16 = 1.25em */
-  }
-
   body {
     padding-right: 11.73333333%; /* 44 / 375 = 11.73333333% */
     padding-left: 11.73333333%; /* 44 / 375 = 11.73333333% */
@@ -242,14 +234,6 @@ button {
   change the bodys padding on left and right.
 */
 @media screen and (min-width: 375px) {
-  html {
-    font-size: .5em; /* 20 / 16 = 1.25em */
-  }
-
-  button {
-    font-size: .5em; /* 20 / 16 = 1.25em */
-  }
-
   body {
     padding-right: 11.73333333%; /* 44 / 375 = 11.73333333% */
     padding-left: 11.73333333%; /* 44 / 375 = 11.73333333% */
@@ -257,14 +241,6 @@ button {
 }
 
 @media screen and (min-width: 425px) {
-  html {
-    font-size: .5em; /* 20 / 16 = 1.25em */
-  }
-
-  button {
-    font-size: .5em; /* 20 / 16 = 1.25em */
-  }
-
   body {
     padding-right: 11.73333333%; /* 44 / 375 = 11.73333333% */
     padding-left: 11.73333333%; /* 44 / 375 = 11.73333333% */
