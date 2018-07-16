@@ -151,6 +151,7 @@ img, video, a {
 
 button {
   font-family: 'Jura', sans-serif;
+  font-size: 15px;
   background-color: #008CBA;
   color: white;
   border: 1px solid black;
