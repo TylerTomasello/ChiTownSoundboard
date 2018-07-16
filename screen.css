@@ -14,6 +14,7 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 html {
   font-size: 1.125em; /* 18 / 16 = 1.125 */
   line-height: 1.222em; /* 22 / 18 = 1.222 */
+  background-color: silver;
 }
 
 /*
@@ -145,7 +146,7 @@ img, video, a {
 button {
   background-color: #008CBA;
   color: white;
-  border: none;
+  border: 1px solid black;
   border-radius: 2px;
   padding: 10px;
   cursor: pointer;
