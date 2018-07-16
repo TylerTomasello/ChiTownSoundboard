@@ -14,6 +14,7 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 html {
   font-size: 1.125em; /* 18 / 16 = 1.125 */
   line-height: 1.222em; /* 22 / 18 = 1.222 */
+  font-family: 'Rock Salt', cursive;
   /*background-color: silver;*/
   background-image: url("cod4guys.png");
   background-repeat: no-repeat;
@@ -148,6 +149,7 @@ img, video, a {
 }
 
 button {
+  font-family: 'Rock Salt', cursive;
   background-color: #008CBA;
   color: white;
   border: 1px solid black;
